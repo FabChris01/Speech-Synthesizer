@@ -1,5 +1,6 @@
 This is the ReadMe file for Speech Synthesizer
 The code has been added as an ipynb file
-For step by step instructions and explanations of the code, check out my medium article
+For step by step instructions and explanations of the code, check out my medium article: https://fabchris2001.medium.com/speech-synthesizer-using-python-b3f1c83a1fc8
+
 
 
